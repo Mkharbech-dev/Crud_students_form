@@ -1,0 +1,14 @@
+.form-control{
+    width: 90%;
+}
+img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    position: relative;
+    cursor: pointer;
+    /* border: 1px solid black; */
+}
+
+
+
